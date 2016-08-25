@@ -12,7 +12,7 @@ var app=angular.module("MyApp",['ngRoute','Map']);
 });*/
 
 app.controller("MainController",function($scope,$rootScope){
-   //xcxcxcx
+   //xcxcxcxsdsdsdsd
  //$rootScope.map.setZoom(10);
  var a=0;
    $scope.getMenu=function(){
